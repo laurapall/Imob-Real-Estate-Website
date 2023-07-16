@@ -71,5 +71,5 @@ Please ensure that the website and database are adequately secured before deploy
 
 ## Author:
 
-[Pall Laura](https://github.com/laurapall)
+* [Pall Laura](https://github.com/laurapall)
 
