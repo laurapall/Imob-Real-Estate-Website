@@ -63,6 +63,9 @@ Imob is a real estate agency website that allows users to browse and search for 
 ## License:
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
+## Contact
+If you have any questions or suggestions, feel free to reach out to me at [flaurapall@gmail.com].
+
 ## Note:
 Please ensure that the website and database are adequately secured before deploying the project to a live server, as this README only provides an overview of the project and not comprehensive security measures.
 
