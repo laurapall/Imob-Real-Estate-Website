@@ -66,3 +66,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## Note:
 Please ensure that the website and database are adequately secured before deploying the project to a live server, as this README only provides an overview of the project and not comprehensive security measures.
 
+## Author:
+
+[Pall Laura](https://github.com/laurapall)
+
